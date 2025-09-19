@@ -727,12 +727,14 @@ ul {
   border: none;
   fill: #f4f4fd;
 }
-
+.checkbox-label-span {
+  margin-right: 8px;
+}
 .checbox-label-link {
   color: #4d5ae5;
 }
 
-.modal-form-button {
+.modal-form-btn {
   display: block;
   min-width: 169px;
   height: 56px;
@@ -746,4 +748,5 @@ ul {
   background-color: #4d5ae5;
   border: none;
   transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+  margin: auto;
 }
