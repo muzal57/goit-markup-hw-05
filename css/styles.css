@@ -723,9 +723,6 @@ ul {
   fill: transparent;
 }
 
-.checkbox-span-icon {
-}
-
 .checkbox-input:checked + .checkbox-label .checkbox-label-span {
   background-color: #404bbf;
   border: none;
