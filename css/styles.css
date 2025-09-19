@@ -154,6 +154,7 @@ ul {
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  margin: 0 auto;
 }
 .hero-title {
   font-family: "Roboto", sans-serif;
@@ -304,6 +305,7 @@ ul {
   letter-spacing: 0.02em;
   text-align: center;
   color: #434455;
+  margin-bottom: 8px;
 }
 
 .social-list {
@@ -476,7 +478,6 @@ ul {
 .footer-social-list {
   display: flex;
   gap: 16px;
-  margin-top: 16px;
 }
 
 .footer-social-links {
